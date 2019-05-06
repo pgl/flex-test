@@ -1,3 +1,5 @@
 {
-    "name": "pgl/flex-test"
+    "name": "pgl/flex-test",
+    "description": "Test package",
+    "version": "1.0"
 }
